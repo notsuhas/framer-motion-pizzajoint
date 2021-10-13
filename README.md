@@ -1,2 +1,3 @@
-# framer-motion
-All course files for the Framer Motion &amp; React tutorial series on The Net Ninja YouTube channel.
+# Framer Motion - Pizzajoint
+
+This is sample Framer-Motion project for learning.
